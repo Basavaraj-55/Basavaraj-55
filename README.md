@@ -1,71 +1,93 @@
 <h1 align="center">Hi 👋, I'm Basavaraj</h1>
-<h3 align="center">💻 Full Stack Developer | 🤖 AI & Machine Learning Enthusiast</h3>
+
+<h3 align="center">
+💻 Full Stack Developer | 🤖 AI & Machine Learning Enthusiast
+</h3>
 
 <p align="center">
-Passionate about building AI-powered web applications using React, Python, Flask, MongoDB, Machine Learning, and Generative AI.
+Passionate about building intelligent web applications and AI-powered solutions using Full Stack Development, Machine Learning, and Generative AI.
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 Computer Science Engineering Student
-- 🌱 Currently learning **Advanced Full Stack Development & Generative AI**
-- 💡 Interested in AI, Machine Learning, and Software Engineering
+- 🎓 Computer Science Engineering Graduate
+- 💻 Full Stack Developer specializing in React, Flask, Python, and MongoDB
+- 🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI
 - 🌾 Creator of **AgriGenAI – AI Powered Smart Agriculture Platform**
-- 📫 Reach me: **basavarajchannappanor@gmail.com**
+- 🚀 Interested in developing scalable, real-world AI applications
+- 🌱 Continuously learning modern technologies and improving my development skills
+- 📫 Reach me at **basavarajchannappanor@gmail.com**
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,flask,mongodb,mysql,git,github,vscode,tensorflow" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,flask,mongodb,mysql,git,github,vscode,tensorflow" />
 </p>
 
 ---
 
-## 🌟 Featured Project
+# 🌟 Featured Project
 
-### 🌾 AgriGenAI
+## 🌾 AgriGenAI – AI Powered Smart Agriculture Platform
 
-An AI-powered agriculture platform with:
+An intelligent agriculture platform that helps farmers make smarter decisions using Artificial Intelligence and Machine Learning.
 
-- 🌿 Crop Recommendation
+### ✨ Key Features
+
+- 🌱 Crop Recommendation
 - 🍃 Plant Disease Detection
 - 🌦️ Weather Forecast
-- 💧 Smart Irrigation
+- 💧 Smart Irrigation Recommendation
+- 🌿 Fertilizer Recommendation
 - 📈 Market Price Prediction
-- 🤖 AI Farmer Chatbot (Gemini + RAG)
+- 🤖 AI Farmer Assistant (Gemini + RAG)
 - 🌐 Multilingual Support
+- 🔐 Secure User Authentication
+- 📊 Interactive Dashboard
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Basavaraj-55&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Basavaraj-55&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Basavaraj-55&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
-## 💻 Most Used Languages
+# 🔥 GitHub Streak
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Basavaraj-55&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/basavaraj-c-a33433273
-- 
-- 📧 Email: basavarajchannappanor@gmail.com
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Basavaraj-55&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basavaraj-55&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/basavaraj-c-a33433273
+- 📧 **Email:** basavarajchannappanor@gmail.com
+
+---
+
+# 🎯 Career Objective
+
+I enjoy building AI-powered software that solves real-world problems. My goal is to contribute as a Software Engineer by developing scalable web applications, intelligent systems, and innovative AI solutions while continuously learning and growing in the field of technology.
+
+---
+
+⭐ **Thank you for visiting my GitHub profile!**
+
+If you like my projects, feel free to explore my repositories and connect with me.
