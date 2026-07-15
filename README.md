@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-Passionate about building intelligent web applications and AI-powered solutions using Full Stack Development, Machine Learning, and Generative AI.
+Passionate about building intelligent web applications and AI-powered solutions using Full Stack Development, Machine Learning, Deep Learning, and Generative AI.
 </p>
 
 ---
@@ -13,11 +13,11 @@ Passionate about building intelligent web applications and AI-powered solutions 
 # 🚀 About Me
 
 - 🎓 Computer Science Engineering Graduate
-- 💻 Full Stack Developer specializing in React, Flask, Python, and MongoDB
+- 💻 Full Stack Developer specializing in React, Python, Flask, Java, and MongoDB
 - 🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI
 - 🌾 Creator of **AgriGenAI – AI Powered Smart Agriculture Platform**
-- 🚀 Interested in developing scalable, real-world AI applications
-- 🌱 Continuously learning modern technologies and improving my development skills
+- 🚀 Interested in developing scalable software and AI-powered applications
+- 🌱 Continuously learning modern technologies and building real-world projects
 - 📫 Reach me at **basavarajchannappanor@gmail.com**
 
 ---
@@ -34,7 +34,7 @@ Passionate about building intelligent web applications and AI-powered solutions 
 
 ## 🌾 AgriGenAI – AI Powered Smart Agriculture Platform
 
-An intelligent agriculture platform that helps farmers make smarter decisions using Artificial Intelligence and Machine Learning.
+An AI-powered agriculture platform designed to help farmers make smarter decisions using Artificial Intelligence and Machine Learning.
 
 ### ✨ Key Features
 
@@ -46,15 +46,15 @@ An intelligent agriculture platform that helps farmers make smarter decisions us
 - 📈 Market Price Prediction
 - 🤖 AI Farmer Assistant (Gemini + RAG)
 - 🌐 Multilingual Support
-- 🔐 Secure User Authentication
+- 🔐 Secure Authentication
 - 📊 Interactive Dashboard
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Basavaraj-55&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Basavaraj-55&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -62,7 +62,7 @@ An intelligent agriculture platform that helps farmers make smarter decisions us
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Basavaraj-55&theme=tokyonight" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Basavaraj-55&theme=tokyonight" />
 </p>
 
 ---
@@ -70,7 +70,7 @@ An intelligent agriculture platform that helps farmers make smarter decisions us
 # 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basavaraj-55&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basavaraj-55&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -84,10 +84,10 @@ An intelligent agriculture platform that helps farmers make smarter decisions us
 
 # 🎯 Career Objective
 
-I enjoy building AI-powered software that solves real-world problems. My goal is to contribute as a Software Engineer by developing scalable web applications, intelligent systems, and innovative AI solutions while continuously learning and growing in the field of technology.
+I am passionate about developing innovative software and AI-powered applications that solve real-world problems. My goal is to contribute as a Software Engineer by building scalable, efficient, and intelligent solutions while continuously learning and growing in the field of technology.
 
 ---
 
 ⭐ **Thank you for visiting my GitHub profile!**
 
-If you like my projects, feel free to explore my repositories and connect with me.
+Feel free to explore my repositories, check out my projects, and connect with me.
