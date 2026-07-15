@@ -13,7 +13,7 @@ Passionate about building AI-powered web applications using React, Python, Flask
 - 🌱 Currently learning **Advanced Full Stack Development & Generative AI**
 - 💡 Interested in AI, Machine Learning, and Software Engineering
 - 🌾 Creator of **AgriGenAI – AI Powered Smart Agriculture Platform**
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **basavarajchannappanor@gmail.com**
 
 ---
 
@@ -61,8 +61,9 @@ An AI-powered agriculture platform with:
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: Add your LinkedIn URL
-- 📧 Email: your-email@example.com
+- 💼 LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/in/basavaraj-c-a33433273)
+- 📧 Email: basavarajchannappanor@gmail.com
+
 
 ---
 
