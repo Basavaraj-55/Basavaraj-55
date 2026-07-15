@@ -18,14 +18,14 @@ Passionate about building intelligent web applications and AI-powered solutions 
 - 🌾 Creator of **AgriGenAI – AI Powered Smart Agriculture Platform**
 - 🚀 Interested in developing scalable software and AI-powered applications
 - 🌱 Continuously learning modern technologies and building real-world projects
-- 📫 Reach me at **basavarajchannappanor@gmail.com**
+- 📫 Email: **basavarajchannappanor@gmail.com**
 
 ---
 
 # 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,flask,mongodb,mysql,git,github,vscode,tensorflow" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,flask,mongodb,mysql,git,github,vscode,tensorflow" />
 </p>
 
 ---
@@ -34,7 +34,7 @@ Passionate about building intelligent web applications and AI-powered solutions 
 
 ## 🌾 AgriGenAI – AI Powered Smart Agriculture Platform
 
-An AI-powered agriculture platform designed to help farmers make smarter decisions using Artificial Intelligence and Machine Learning.
+An AI-powered smart farming platform that helps farmers make informed decisions using Artificial Intelligence and Machine Learning.
 
 ### ✨ Key Features
 
@@ -51,34 +51,21 @@ An AI-powered agriculture platform designed to help farmers make smarter decisio
 
 ---
 
-# 📊 GitHub Statistics
+# 📂 Other Projects
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Basavaraj-55&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Basavaraj-55&theme=tokyonight" />
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basavaraj-55&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
+- 💰 Currency Wallet Application
+- 🔐 Secure KYC Project
+- 🤖 LLM Projects
+- 🏠 House Price Prediction
+- 👥 Employee Attrition Prediction
+- 🏥 Hospital Management System
 
 ---
 
 # 🌐 Connect With Me
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/basavaraj-c-a33433273
-- 📧 **Email:** basavarajchannappanor@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/basavaraj-c-a33433273
+- 📧 Email: basavarajchannappanor@gmail.com
 
 ---
 
