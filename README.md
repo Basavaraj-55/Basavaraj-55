@@ -61,7 +61,7 @@ An AI-powered agriculture platform with:
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/in/basavaraj-c-a33433273)
+- 💼 LinkedIn: {(https://www.linkedin.com/in/basavaraj-c-a33433273)}
 - 📧 Email: basavarajchannappanor@gmail.com
 
 
